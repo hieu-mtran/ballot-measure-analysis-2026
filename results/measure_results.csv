@@ -1,0 +1,134 @@
+state,designation,short_title,origin,topic,rules,dem_side,yes_pct,threshold_pct,passed,percent_reporting,dem_side_pct,dem_vote_pct,dem_vote_source,gap_pts,incomplete
+AK,Ballot Measure 2,"Repeal open primaries, ranked-choice voting and 2020 campaign finance rules",citizens,election rules,,no,46.2,50.0,False,0.0,53.8,58.5,Senate/governor,-4.7,True
+AK,Ballot Measure 3,Only U.S. citizens may vote (voter qualification wording),citizens,citizen-only voting,,no,68.2,50.0,True,0.0,31.8,58.5,Senate/governor,-26.7,True
+AL,Statewide Amendment 1,Election to fill Lieutenant Governor vacancies; legislative pay and travel,legislature,other,,,65.4,50.0,True,95.2,,46.6,Senate/governor,,False
+AL,Statewide Amendment 2,Process to merge neighboring county school systems,legislature,education,,,50.9,50.0,True,95.8,,46.6,Senate/governor,,False
+AL,Statewide Amendment 3,Pledge of Allegiance and student-led prayer in public schools,legislature,education,,,62.6,50.0,True,95.5,,46.6,Senate/governor,,False
+AL,Statewide Amendment 4,Star-Spangled Banner in public schools weekly,legislature,education,,,58.6,50.0,True,95.5,,46.6,Senate/governor,,False
+AR,Issue 1,Citizens-only voting requirement,legislature,citizen-only voting,,no,69.1,50.0,True,99.9,30.9,42.9,Senate/governor,-11.9,False
+AR,Issue 2,Right to keep and bear arms,legislature,guns,,,70.8,50.0,True,99.9,,42.9,Senate/governor,,False
+AR,Issue 3,Economic development districts,legislature,other,,,49.3,50.0,False,99.9,,42.9,Senate/governor,,False
+AR,Issue 4,"$500M water, waste and pollution bonds",legislature,bonds & budget,,,56.4,50.0,True,99.9,,42.9,Senate/governor,,False
+AZ,Proposition 141,Ban on vehicle-miles-traveled taxes,legislature,taxes,,,51.0,50.0,True,99.7,,56.7,Senate/governor,,False
+AZ,Proposition 142,Race-based preferences and DEI prohibitions in public institutions,legislature,DEI,,no,40.1,50.0,False,99.7,59.9,56.7,Senate/governor,3.2,False
+AZ,Proposition 144,Voter ID for all voting methods and election changes,legislature,voter ID,,no,46.7,50.0,False,99.7,53.3,56.7,Senate/governor,-3.4,False
+AZ,Proposition 316,Voter approval and 2% cap for local grocery taxes,legislature,taxes,,,62.1,50.0,True,99.7,,56.7,Senate/governor,,False
+AZ,Proposition 317,Drug cartels designated terrorist organizations,legislature,other,,,56.7,50.0,True,99.7,,56.7,Senate/governor,,False
+AZ,Proposition 318,School athletic teams and private spaces by biological sex,legislature,gender,,no,58.7,50.0,True,99.7,41.3,56.7,Senate/governor,-15.5,False
+AZ,Proposition 319,Limits on photo enforcement and voter approval to keep cameras,legislature,other,,,62.4,50.0,True,99.7,,56.7,Senate/governor,,False
+AZ,Proposition 320,60% of school district spending on direct instruction,legislature,education,,,48.1,50.0,False,99.7,,56.7,Senate/governor,,False
+CA,Proposition 1,$11.25B housing affordability bonds,legislature,bonds & budget,,,61.2,50.0,True,96.2,,65.6,Senate/governor,,False
+CA,Proposition 2,Larger state Rainy Day Fund,legislature,bonds & budget,,,61.3,50.0,True,96.2,,65.6,Senate/governor,,False
+CA,Proposition 3,Make high-income tax rates permanent,citizens,taxes,,yes,60.8,50.0,True,96.2,60.8,65.6,Senate/governor,-4.8,False
+CA,Proposition 37,$25B revenue-bond home loan program for middle-income buyers,citizens,bonds & budget,,,62.5,50.0,True,96.2,,65.6,Senate/governor,,False
+CA,Proposition 38,$8.4B immunology research bonds,citizens,bonds & budget,,,53.9,50.0,True,96.2,,65.6,Senate/governor,,False
+CA,Proposition 39,Voter ID requirement,citizens,voter ID,,no,39.5,50.0,False,96.2,60.5,65.6,Senate/governor,-5.1,False
+CA,Proposition 4,Allow public financing of election campaigns,legislature,election rules,,yes,49.8,50.0,False,96.2,49.8,65.6,Senate/governor,-15.9,False
+CA,Proposition 40,One-time 5% tax on billionaires,citizens,taxes,,yes,47.9,50.0,False,96.2,47.9,65.6,Senate/governor,-17.7,False
+CA,Proposition 41,Limit taxes excluded from spending limit; audits of special taxes,citizens,taxes,,,44.8,50.0,False,96.2,,65.6,Senate/governor,,False
+CA,Proposition 42,Ban new state personal property and retroactive taxes,citizens,taxes,,,51.2,50.0,True,96.2,,65.6,Senate/governor,,False
+CA,Proposition 43,Two-thirds vote for voter-proposed local special taxes,legislature,taxes,,,42.3,50.0,False,96.2,,65.6,Senate/governor,,False
+CA,Proposition 44,90% program-spending rule for community health clinics,citizens,other,,,18.0,50.0,False,96.2,,65.6,Senate/governor,,False
+CA,Proposition 45,Faster environmental review (CEQA) for certain projects,citizens,other,,,43.5,50.0,False,96.2,,65.6,Senate/governor,,False
+CA,Proposition 5,Change recall election process for statewide officers,legislature,other,,,51.9,50.0,True,96.2,,65.6,Senate/governor,,False
+CO,Amendment 81,Police notice to federal immigration authorities after certain charges,citizens,other,,,44.7,55.00000000000001,False,86.1,,64.1,Senate/governor,,True
+CO,Amendment 82,Constitutional right to buy and sell natural gas,citizens,other,,,46.3,55.00000000000001,False,86.1,,64.1,Senate/governor,,True
+CO,Amendment 83,Constitutional right to hunt and fish,citizens,other,,,45.1,55.00000000000001,False,86.1,,64.1,Senate/governor,,True
+CO,Amendment 84,ID number required with mail ballots,citizens,voter ID,,no,36.6,55.00000000000001,False,86.1,63.4,64.1,Senate/governor,-0.7,True
+CO,Amendment 85,Plain-language ballot titles at an 8th-grade reading level,citizens,other,,,51.1,55.00000000000001,False,86.1,,64.1,Senate/governor,,True
+CO,Amendment 86,Requirements for off-cycle congressional redistricting,citizens,redistricting,map,no,46.9,55.00000000000001,False,86.1,53.1,64.1,Senate/governor,-11.0,True
+CO,Amendment 87,Graduated state income tax,citizens,taxes,,yes,51.7,50.0,True,86.1,51.7,64.1,Senate/governor,-12.4,True
+CO,Proposition 132,Increased penalties for fentanyl crimes,citizens,criminal justice,,,52.6,50.0,True,86.1,,64.1,Senate/governor,,True
+CO,Proposition 133,Life without parole for child sex trafficking,citizens,criminal justice,,,62.1,50.0,True,86.1,,64.1,Senate/governor,,True
+CO,Proposition 134,School and college sports teams by biological sex,citizens,gender,,no,52.2,50.0,True,86.1,47.8,64.1,Senate/governor,-16.2,True
+CO,Proposition 135,Ban on surgery altering minors’ sex characteristics,citizens,gender,,no,51.9,50.0,True,86.1,48.1,64.1,Senate/governor,-16.0,True
+CO,Proposition 136,Cap the state income tax rate at 4.4%,citizens,taxes,,no,47.2,50.0,False,86.1,52.8,64.1,Senate/governor,-11.2,True
+CO,Proposition 137,Sporting goods sales tax revenue for conservation,citizens,taxes,,,52.0,50.0,True,86.1,,64.1,Senate/governor,,True
+CO,Proposition NN,Keep and spend revenue above the TABOR limit for K-12 education,legislature,other,,,57.1,50.0,True,86.1,,64.1,Senate/governor,,True
+FL,Amendment 1,Larger budget stabilization (rainy-day) fund,legislature,bonds & budget,,,40.9,60.0,False,98.5,,49.0,Senate/governor,,False
+FL,Amendment 2,Tax exemption for agricultural personal property,legislature,taxes,,,58.2,60.0,False,98.5,,49.0,Senate/governor,,False
+FL,Amendment 3,Larger homestead exemption; lower non-homestead assessment cap,legislature,other,,,62.0,60.0,True,98.5,,49.0,Senate/governor,,False
+HI,Question 1,More time for Senate to act on judicial appointments,legislature,courts,,,63.0,50.0,True,77.4,,72.6,Senate/governor,,True
+IA,Constitutional Amendment 1,Two-thirds legislative vote to raise income taxes,legislature,taxes,,,56.2,50.0,True,98.6,,53.9,Senate/governor,,False
+ID,HJR 4,Only the Legislature may legalize marijuana and other psychoactive drugs,legislature,drugs,,,33.7,50.0,False,99.9,,36.2,Senate/governor,,False
+ID,HJR 6,English as Idaho’s official language,legislature,other,,,63.1,50.0,True,99.9,,36.2,Senate/governor,,False
+ID,Proposition 1,Right to abortion before fetal viability and reproductive privacy,citizens,abortion,,yes,44.1,50.0,False,99.9,44.1,36.2,Senate/governor,7.9,False
+IN,Public Question 1,Allow denial of bail for dangerous defendants,legislature,criminal justice,,,58.4,50.0,True,99.9,,51.8,House,,False
+IN,Public Question 2,Residency rule for city and town court judges,legislature,courts,,,62.6,50.0,True,97.9,,51.8,House,,False
+KS,Constitutional Amendment,Only U.S. citizens may vote,legislature,citizen-only voting,,no,63.6,50.0,True,99.9,36.4,51.5,Senate/governor,-15.1,False
+KY,Constitutional Amendment 1,Limit governor pardons around gubernatorial elections,legislature,other,,,70.7,50.0,True,91.3,,43.8,Senate/governor,,True
+LA,Amendment 1,Disabled veterans' surviving spouse exemption transfer,legislature,other,,,74.3,50.0,True,99.9,,49.1,Senate/governor,,False
+LA,Amendment 10,Property tax exemption for rehabilitated blighted property,legislature,taxes,,,46.8,50.0,False,99.9,,49.1,Senate/governor,,False
+LA,Amendment 2,Local millage rate adjustments after reassessment,legislature,other,,,42.0,50.0,False,99.9,,49.1,Senate/governor,,False
+LA,Amendment 3,No post-conviction bail for aggravated offenses against minors,legislature,criminal justice,,,67.8,50.0,True,99.9,,49.1,Senate/governor,,False
+LA,Amendment 4,Lifetime two-term limit for governor,legislature,other,,,55.9,50.0,True,99.9,,49.1,Senate/governor,,False
+LA,Amendment 5,Retirement systems' use of nonrecurring state money,legislature,other,,,37.6,50.0,False,99.9,,49.1,Senate/governor,,False
+LA,Amendment 6,Optional property tax exemption for homeowners 65+,legislature,taxes,,,63.6,50.0,True,99.9,,49.1,Senate/governor,,False
+LA,Amendment 7,Public funds for lead service line replacement,legislature,bonds & budget,,,65.2,50.0,True,99.9,,49.1,Senate/governor,,False
+LA,Amendment 8,Ban on expropriation by foreign adversaries,legislature,other,,,62.1,50.0,True,99.9,,49.1,Senate/governor,,False
+LA,Amendment 9,Higher income limit for senior/disabled assessment freeze,legislature,other,,,58.2,50.0,True,99.9,,49.1,Senate/governor,,False
+MA,Question 1,Public records law for the Legislature and Governor's office,citizens,other,,,85.9,50.0,True,99.9,,65.2,Senate/governor,,False
+MA,Question 2,Collective bargaining for public defender agency (CPCS) employees,citizens,other,,,64.0,50.0,True,99.9,,65.2,Senate/governor,,False
+MA,Question 3,Top-two all-party primaries for state elections,citizens,election rules,,,39.0,50.0,False,99.9,,65.2,Senate/governor,,False
+MA,Question 4,Election Day voter registration,citizens,election rules,,yes,56.4,50.0,True,99.9,56.4,65.2,Senate/governor,-8.9,False
+MA,Question 5,"State revenue limit tied to wage growth, with taxpayer rebates",citizens,taxes,,no,47.7,50.0,False,99.9,52.3,65.2,Senate/governor,-13.0,False
+MA,Question 6,Dedicate sporting-goods sales taxes to a conservation fund,citizens,bonds & budget,,,60.8,50.0,True,99.9,,65.2,Senate/governor,,False
+MA,Question 7,"Single-family homes on lots of 5,000 square feet or more",citizens,other,,,49.4,50.0,False,99.9,,65.2,Senate/governor,,False
+MA,Question 8,End retail sales of recreational marijuana,citizens,drugs,,,24.4,50.0,False,99.9,,65.2,Senate/governor,,False
+MA,Question 9,Referendum on the 2024 firearms law,referendum,guns,,,67.3,50.0,True,99.7,,65.2,Senate/governor,,False
+MD,Question 1,Fund state employee bargaining agreements in budget,legislature,bonds & budget,,,76.2,50.0,True,99.9,,68.2,Senate/governor,,False
+MD,Question 2,Temporary members of Commission on Judicial Disabilities,legislature,courts,,,68.4,50.0,True,99.9,,68.2,Senate/governor,,False
+MD,Question 3,Congressional districting rules and court review,legislature,redistricting,map,yes,62.0,50.0,True,99.9,62.0,68.2,Senate/governor,-6.2,False
+MI,Proposal 2026-1,Call a state constitutional convention,automatic,other,,,26.2,50.0,False,90.5,,54.5,Senate/governor,,True
+MN,Constitutional Amendment 1,Permanent school fund distributions,legislature,bonds & budget,,,75.6,50.0,True,99.9,,55.9,Senate/governor,,False
+MO,Amendment 3,Repeal 2024 abortion-rights amendment; minors’ gender transition ban,legislature,abortion,curb,no,47.8,50.0,False,89.6,52.2,49.6,House,2.5,True
+MO,Amendment 6,Initiative and referendum rights; limits on legislative changes,citizens,direct democracy,protect,yes,57.8,50.0,True,89.6,57.8,49.6,House,8.1,True
+MO,Amendment 7,“Show-Me Prosperity Fund” endowment to replace state taxes,legislature,bonds & budget,,,40.5,50.0,False,89.6,,49.6,House,,True
+MO,Amendment 8,Elected county sheriffs in the Constitution,legislature,other,,,53.2,50.0,True,89.6,,49.6,House,,True
+MO,Proposition A,Referendum on 2025 congressional map (HB 1),referendum,redistricting,map,no,40.5,50.0,False,89.6,59.5,49.6,House,9.9,True
+MT,Constitutional Initiative No. 132 (CI-132),Keep judicial elections nonpartisan,citizens,courts,protect,,68.2,50.0,True,99.9,,44.9,House,,False
+MT,Constitutional Initiative No. 133 (CI-133),Constitutional right to initiative and referendum,citizens,direct democracy,protect,yes,65.4,50.0,True,99.9,65.4,44.9,House,20.5,False
+MT,Initiative No. 194 (I-194),Bar corporations and other entities from election spending (Montana Plan),citizens,election rules,,,65.6,50.0,True,99.6,,44.9,House,,False
+NC,Constitutional Amendment - Maximum Income Tax Rate of 3.5%,Lower the state income tax rate cap from 7% to 3.5%,legislature,taxes,,,61.9,50.0,True,99.9,,60.1,Senate/governor,,False
+NC,Constitutional Amendment - Property Tax Levy Limit,Required limits on local property tax levy increases,legislature,taxes,,,60.4,50.0,True,99.9,,60.1,Senate/governor,,False
+NC,Constitutional Amendment - Require Photo ID for Voting,"Photo ID for all voters, including mail-in voters",legislature,voter ID,,no,59.6,50.0,True,99.9,40.4,60.1,Senate/governor,-19.7,False
+ND,Constitutional Measure No. 1,60% vote to approve constitutional amendments,legislature,direct democracy,curb,no,43.5,50.0,False,99.9,56.5,39.0,House,17.5,False
+ND,Initiated Constitutional Measure No. 2,Free school breakfast and lunch for all students,citizens,education,,yes,49.4,50.0,False,99.9,49.4,39.0,House,10.4,False
+NE,Initiative Measure 440,Allow online sports betting via licensed racetrack casinos (constitutional),citizens,gambling,,,45.1,50.0,False,99.9,,46.0,Senate/governor,,False
+NE,Initiative Measure 441,Allow and regulate online sports betting (statute),citizens,gambling,,,45.6,50.0,False,99.9,,46.0,Senate/governor,,False
+NE,Initiative Measure 442,School sports teams designated by biological sex,citizens,gender,,no,67.7,50.0,True,99.9,32.3,46.0,Senate/governor,-13.7,False
+NE,Proposed Amendment No. 1,Legislative term limits: two terms to three,legislature,other,,,18.6,50.0,False,99.9,,46.0,Senate/governor,,False
+NH,Question 1,Eliminate register of probate office,legislature,other,,,64.8,66.67,False,99.9,,52.4,Senate/governor,,False
+NM,Bond Question 1,$21.6M senior citizen facility bonds,legislature,bonds & budget,,,69.6,50.0,True,99.9,,60.3,Senate/governor,,False
+NM,Bond Question 2,$19.3M library acquisition bonds,legislature,bonds & budget,,,66.0,50.0,True,99.9,,60.3,Senate/governor,,False
+NM,Bond Question 3,"$352.2M higher education, special and tribal school bonds",legislature,bonds & budget,,,64.3,50.0,True,99.9,,60.3,Senate/governor,,False
+NM,Constitutional Amendment 1,Ends pocket veto; requires veto explanations,legislature,other,,,75.1,50.0,True,99.9,,60.3,Senate/governor,,False
+NM,Constitutional Amendment 3,Nominating committees for university regents,legislature,other,,,70.0,50.0,True,99.9,,60.3,Senate/governor,,False
+NM,Constitutional Amendment 4,Salaries for state legislators,legislature,other,,,63.5,50.0,True,99.9,,60.3,Senate/governor,,False
+NV,Question 6,Constitutional right to abortion (second vote),citizens,abortion,,yes,63.5,50.0,True,90.7,63.5,54.0,Senate/governor,9.5,True
+NV,Question 7,Voter ID for in-person and mail voting (second vote),citizens,voter ID,,no,62.2,50.0,True,90.7,37.8,54.0,Senate/governor,-16.1,True
+OH,Issue 3,Photo ID requirement for voting,legislature,voter ID,,no,65.3,50.0,True,99.9,34.7,53.3,Senate/governor,-18.7,False
+OK,State Question 845,Judicial Nominating Commission structure,legislature,courts,,,27.5,50.0,False,99.9,,43.8,Senate/governor,,False
+OK,State Question 847,Lower property valuation growth caps; senior freeze changes,legislature,other,,,45.7,50.0,False,99.9,,43.8,Senate/governor,,False
+RI,Question 1,$275M higher education facilities bonds,legislature,bonds & budget,,,60.0,50.0,True,99.9,,69.5,Senate/governor,,False
+RI,Question 2,$120M housing and homeownership bonds,legislature,bonds & budget,,,61.3,50.0,True,99.9,,69.5,Senate/governor,,False
+RI,Question 3,$100M economic development bonds,legislature,bonds & budget,,,47.7,50.0,False,99.9,,69.5,Senate/governor,,False
+RI,Question 4,"$50M cultural economy bonds (State History Center, preservation grants)",legislature,bonds & budget,,,49.4,50.0,False,99.9,,69.5,Senate/governor,,False
+RI,Question 5,$55M green economy bonds (environment and recreation),legislature,bonds & budget,,,67.1,50.0,True,99.9,,69.5,Senate/governor,,False
+SD,Constitutional Amendment I,End Medicaid expansion if federal funding falls below 90%,legislature,health,,no,44.2,50.0,False,99.9,55.8,36.5,Senate/governor,19.3,False
+SD,Constitutional Amendment J,Only U.S. citizens may vote,legislature,citizen-only voting,,no,61.5,50.0,True,99.9,38.5,36.5,Senate/governor,2.0,False
+SD,Constitutional Amendment K,Trust fund for unclaimed property,legislature,bonds & budget,,,60.9,50.0,True,99.9,,36.5,Senate/governor,,False
+SD,Constitutional Amendment L,60% vote to approve constitutional amendments,legislature,direct democracy,curb,no,42.4,50.0,False,99.9,57.6,36.5,Senate/governor,21.1,False
+UT,Constitutional Amendment A,Publish proposed constitutional amendments online instead of in newspapers,legislature,other,,,61.0,50.0,True,10.3,,50.3,House,,True
+UT,Constitutional Amendment B,60% vote for citizen initiatives that raise taxes,legislature,direct democracy,curb,no,38.6,50.0,False,10.3,61.4,50.3,House,11.1,True
+VA,Question 1,Right to reproductive freedom,legislature,abortion,,yes,62.9,50.0,True,99.9,62.9,61.8,Senate/governor,1.1,False
+VA,Question 2,Repeal same-sex marriage ban; right to marry,legislature,marriage,,yes,57.9,50.0,True,99.9,57.9,61.8,Senate/governor,-3.9,False
+VA,Question 3,Right to vote; felony voting restoration,legislature,election rules,,yes,56.9,50.0,True,99.9,56.9,61.8,Senate/governor,-4.8,False
+WA,Initiative Measure No. IL26-001,Restore 2024 parents' rights law,citizens,gender,,no,47.6,50.0,False,0.0,52.4,63.4,House,-11.0,True
+WA,Initiative Measure No. IL26-638,Sex-based eligibility for girls' school sports,citizens,gender,,no,55.9,50.0,True,0.0,44.1,63.4,House,-19.4,True
+WA,Initiative Measure No. IP26-645,Repeal income tax over $1M; ban income taxes,citizens,taxes,,no,42.0,50.0,False,0.0,58.0,63.4,House,-5.4,True
+WI,Question 1,Bar governor’s partial veto from creating or raising taxes or fees,legislature,taxes,,,50.7,50.0,True,96.5,,54.0,Senate/governor,,False
+WI,Question 2,Bar closing places of worship during emergencies,legislature,other,,,48.1,50.0,False,96.5,,54.0,Senate/governor,,False
+WI,Question 3,"Bar government discrimination or preferences by race, sex or ethnicity",legislature,DEI,,no,56.5,50.0,True,96.5,43.5,54.0,Senate/governor,-10.5,False
+WV,Amendment 1,Only U.S. citizens may vote in West Virginia elections,legislature,citizen-only voting,,no,79.5,50.0,True,99.9,20.5,39.4,Senate/governor,-19.0,False
+WY,Initiative 1,50% property tax exemption for homeowners’ primary residences,citizens,taxes,,,43.2,50.0,False,99.9,,34.8,Senate/governor,,False

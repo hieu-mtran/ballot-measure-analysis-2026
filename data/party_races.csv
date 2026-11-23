@@ -1,0 +1,507 @@
+state,office,district,race_name,civic_race_id
+AK,governor,,Alaska Governor,148898
+AK,house,AK-AL,Alaska US House At-Large,86915
+AK,senate,,Alaska US Senate,86916
+AL,governor,,Alabama Governor,86908
+AL,house,AL-01,Alabama US House 1,86900
+AL,house,AL-02,Alabama US House 2,86901
+AL,house,AL-03,Alabama US House 3,86902
+AL,house,AL-04,Alabama US House 4,86903
+AL,house,AL-05,Alabama US House 5,86904
+AL,house,AL-06,Alabama US House 6,86905
+AL,house,AL-07,Alabama US House 7,86906
+AL,senate,,Alabama US Senate,86907
+AR,governor,,Arkansas Governor,86938
+AR,house,AR-01,Arkansas US House 1,86945
+AR,house,AR-02,Arkansas US House 2,86946
+AR,house,AR-03,Arkansas US House 3,86947
+AR,house,AR-04,Arkansas US House 4,86948
+AR,senate,,Arkansas US Senate,86949
+AZ,governor,AZ,Arizona Governor,86928
+AZ,house,AZ-01,Arizona US House 1,86917
+AZ,house,AZ-02,Arizona US House 2,86918
+AZ,house,AZ-03,Arizona US House 3,86919
+AZ,house,AZ-04,Arizona US House 4,86920
+AZ,house,AZ-05,Arizona US House 5,86921
+AZ,house,AZ-06,Arizona US House 6,86922
+AZ,house,AZ-07,Arizona US House 7,86923
+AZ,house,AZ-08,Arizona US House 8,86924
+AZ,house,AZ-09,Arizona US House 9,86925
+CA,governor,,California Governor,86952
+CA,house,CA-01,California US House 1,86968
+CA,house,CA-02,California US House 2,86979
+CA,house,CA-03,California US House 3,86990
+CA,house,CA-04,California US House 4,87001
+CA,house,CA-05,California US House 5,87005
+CA,house,CA-06,California US House 6,87006
+CA,house,CA-07,California US House 7,87007
+CA,house,CA-08,California US House 8,87008
+CA,house,CA-09,California US House 9,87009
+CA,house,CA-10,California US House 10,86958
+CA,house,CA-11,California US House 11,86959
+CA,house,CA-12,California US House 12,86960
+CA,house,CA-13,California US House 13,86961
+CA,house,CA-14,California US House 14,86962
+CA,house,CA-15,California US House 15,86963
+CA,house,CA-16,California US House 16,86964
+CA,house,CA-17,California US House 17,86965
+CA,house,CA-18,California US House 18,86966
+CA,house,CA-19,California US House 19,86967
+CA,house,CA-20,California US House 20,86969
+CA,house,CA-21,California US House 21,86970
+CA,house,CA-22,California US House 22,86971
+CA,house,CA-23,California US House 23,86972
+CA,house,CA-24,California US House 24,86973
+CA,house,CA-25,California US House 25,86974
+CA,house,CA-26,California US House 26,86975
+CA,house,CA-27,California US House 27,86976
+CA,house,CA-28,California US House 28,86977
+CA,house,CA-29,California US House 29,86978
+CA,house,CA-30,California US House 30,86980
+CA,house,CA-31,California US House 31,86981
+CA,house,CA-32,California US House 32,86982
+CA,house,CA-33,California US House 33,86983
+CA,house,CA-34,California US House 34,86984
+CA,house,CA-35,California US House 35,86985
+CA,house,CA-36,California US House 36,86986
+CA,house,CA-37,California US House 37,86987
+CA,house,CA-38,California US House 38,86988
+CA,house,CA-39,California US House 39,86989
+CA,house,CA-40,California US House 40,86991
+CA,house,CA-41,California US House 41,86992
+CA,house,CA-42,California US House 42,86993
+CA,house,CA-43,California US House 43,86994
+CA,house,CA-44,California US House 44,86995
+CA,house,CA-45,California US House 45,86996
+CA,house,CA-46,California US House 46,86997
+CA,house,CA-47,California US House 47,86998
+CA,house,CA-48,California US House 48,86999
+CA,house,CA-49,California US House 49,87000
+CA,house,CA-50,California US House 50,87002
+CA,house,CA-51,California US House 51,87003
+CA,house,CA-52,California US House 52,87004
+CO,governor,,Colorado Governor,87018
+CO,house,CO-01,Colorado US House 1,87010
+CO,house,CO-02,Colorado US House 2,87011
+CO,house,CO-03,Colorado US House 3,87012
+CO,house,CO-04,Colorado US House 4,87013
+CO,house,CO-05,Colorado US House 5,87014
+CO,house,CO-06,Colorado US House 6,87015
+CO,house,CO-07,Colorado US House 7,87016
+CO,house,CO-08,Colorado US House 8,87017
+CO,senate,,Colorado US Senate,87022
+CT,governor,,Connecticut Governor,87026
+CT,house,CT-01,Connecticut US House 1,87023
+CT,house,CT-02,Connecticut US House 2,87027
+CT,house,CT-03,Connecticut US House 3,87028
+CT,house,CT-04,Connecticut US House 4,87024
+CT,house,CT-05,Connecticut US House 5,87025
+DE,house,DE-AL,Delaware US House At-Large,87035
+DE,senate,,Delaware US Senate,87036
+FL,governor,,Florida Governor,87069
+FL,house,FL-01,Florida US House 1,87040
+FL,house,FL-02,Florida US House 2,87041
+FL,house,FL-03,Florida US House 3,87042
+FL,house,FL-04,Florida US House 4,87043
+FL,house,FL-05,Florida US House 5,87044
+FL,house,FL-06,Florida US House 6,87045
+FL,house,FL-07,Florida US House 7,87046
+FL,house,FL-08,Florida US House 8,87047
+FL,house,FL-09,Florida US House 9,87048
+FL,house,FL-10,Florida US House 10,87049
+FL,house,FL-11,Florida US House 11,87050
+FL,house,FL-12,Florida US House 12,87051
+FL,house,FL-13,Florida US House 13,87052
+FL,house,FL-14,Florida US House 14,87053
+FL,house,FL-15,Florida US House 15,87054
+FL,house,FL-16,Florida US House 16,87055
+FL,house,FL-17,Florida US House 17,87056
+FL,house,FL-18,Florida US House 18,87057
+FL,house,FL-19,Florida US House 19,87058
+FL,house,FL-20,Florida US House 20,87059
+FL,house,FL-21,Florida US House 21,87060
+FL,house,FL-22,Florida US House 22,87061
+FL,house,FL-23,Florida US House 23,87062
+FL,house,FL-24,Florida US House 24,87063
+FL,house,FL-25,Florida US House 25,87064
+FL,house,FL-26,Florida US House 26,87065
+FL,house,FL-27,Florida US House 27,87066
+FL,house,FL-28,Florida US House 28,87067
+FL,senate,,Florida US Senate Special,87068
+GA,governor,,Georgia Governor,87088
+GA,house,GA-01,Georgia US House 1,87073
+GA,house,GA-02,Georgia US House 2,87074
+GA,house,GA-03,Georgia US House 3,87075
+GA,house,GA-04,Georgia US House 4,87076
+GA,house,GA-05,Georgia US House 5,87077
+GA,house,GA-06,Georgia US House 6,87078
+GA,house,GA-07,Georgia US House 7,87079
+GA,house,GA-08,Georgia US House 8,87080
+GA,house,GA-09,Georgia US House 9,87081
+GA,house,GA-10,Georgia US House 10,87082
+GA,house,GA-11,Georgia US House 11,87083
+GA,house,GA-12,Georgia US House 12,87084
+GA,house,GA-13,Georgia US House 13,87085
+GA,house,GA-14,Georgia US House 14,87086
+GA,senate,,Georgia US Senate,87087
+HI,governor,,Hawaii Governor,87100
+HI,house,HI-01,Hawaii US House 1,87098
+HI,house,HI-02,Hawaii US House 2,87099
+IA,governor,,Iowa Governor,87152
+IA,house,IA-01,Iowa US House 1,87147
+IA,house,IA-02,Iowa US House 2,87148
+IA,house,IA-03,Iowa US House 3,87149
+IA,house,IA-04,Iowa US House 4,87150
+IA,senate,,Iowa US Senate,87151
+ID,governor,,Idaho Governor,87106
+ID,house,ID-01,Idaho US House 1,87104
+ID,house,ID-02,Idaho US House 2,87105
+ID,senate,,Idaho US Senate,87103
+IL,governor,,Illinois Governor,87130
+IL,house,IL-01,Illinois US House 1,87112
+IL,house,IL-02,Illinois US House 2,87113
+IL,house,IL-03,Illinois US House 3,87114
+IL,house,IL-04,Illinois US House 4,87115
+IL,house,IL-05,Illinois US House 5,87116
+IL,house,IL-06,Illinois US House 6,87117
+IL,house,IL-07,Illinois US House 7,87118
+IL,house,IL-08,Illinois US House 8,87119
+IL,house,IL-09,Illinois US House 9,87120
+IL,house,IL-10,Illinois US House 10,87121
+IL,house,IL-11,Illinois US House 11,87122
+IL,house,IL-12,Illinois US House 12,87123
+IL,house,IL-13,Illinois US House 13,87124
+IL,house,IL-14,Illinois US House 14,87125
+IL,house,IL-15,Illinois US House 15,87126
+IL,house,IL-16,Illinois US House 16,87127
+IL,house,IL-17,Illinois US House 17,87128
+IL,senate,,Illinois US Senate,87129
+IN,house,IN-01,Indiana US House 1,87135
+IN,house,IN-02,Indiana US House 2,87136
+IN,house,IN-03,Indiana US House 3,87137
+IN,house,IN-04,Indiana US House 4,87138
+IN,house,IN-05,Indiana US House 5,87139
+IN,house,IN-06,Indiana US House 6,87140
+IN,house,IN-07,Indiana US House 7,87141
+IN,house,IN-08,Indiana US House 8,87142
+IN,house,IN-09,Indiana US House 9,87143
+KS,governor,,Kansas Governor,87163
+KS,house,KS-01,Kansas US House 1,87158
+KS,house,KS-02,Kansas US House 2,87159
+KS,house,KS-03,Kansas US House 3,87160
+KS,house,KS-04,Kansas US House 4,87161
+KS,senate,,Kansas US Senate,87162
+KY,house,KY-01,Kentucky US House 1,87168
+KY,house,KY-02,Kentucky US House 2,87169
+KY,house,KY-03,Kentucky US House 3,87170
+KY,house,KY-04,Kentucky US House 4,87171
+KY,house,KY-05,Kentucky US House 5,87172
+KY,house,KY-06,Kentucky US House 6,87173
+KY,senate,,Kentucky US Senate,87174
+LA,house,LA-01,Louisiana US House 1,87177
+LA,house,LA-02,Louisiana US House 2,87178
+LA,house,LA-03,Louisiana US House 3,87179
+LA,house,LA-04,Louisiana US House 4,87180
+LA,house,LA-05,Louisiana US House 5,87181
+LA,house,LA-06,Louisiana US House 6,87182
+LA,senate,,Louisiana US Senate,87183
+MA,governor,,Massachusetts Governor,87276
+MA,house,MA-01,Massachusetts US House 1,87266
+MA,house,MA-02,Massachusetts US House 2,87267
+MA,house,MA-03,Massachusetts US House 3,87268
+MA,house,MA-04,Massachusetts US House 4,87269
+MA,house,MA-05,Massachusetts US House 5,87270
+MA,house,MA-06,Massachusetts US House 6,87271
+MA,house,MA-07,Massachusetts US House 7,87272
+MA,house,MA-08,Massachusetts US House 8,87273
+MA,house,MA-09,Massachusetts US House 9,87274
+MA,senate,,Massachusetts US Senate,87275
+MD,governor,,Maryland Governor,87198
+MD,house,MD-01,Maryland US House 1,87190
+MD,house,MD-02,Maryland US House 2,87191
+MD,house,MD-03,Maryland US House 3,87192
+MD,house,MD-04,Maryland US House 4,87193
+MD,house,MD-05,Maryland US House 5,87194
+MD,house,MD-06,Maryland US House 6,87195
+MD,house,MD-07,Maryland US House 7,87196
+MD,house,MD-08,Maryland US House 8,87197
+ME,governor,,Maine Governor,87189
+ME,house,ME-01,Maine US House 1,87186
+ME,house,ME-02,Maine US House 2,87187
+ME,senate,,Maine US Senate,87188
+MI,governor,,Michigan Governor,87215
+MI,house,MI-01,Michigan US House 1,87201
+MI,house,MI-02,Michigan US House 2,87202
+MI,house,MI-03,Michigan US House 3,87203
+MI,house,MI-04,Michigan US House 4,87204
+MI,house,MI-05,Michigan US House 5,87205
+MI,house,MI-06,Michigan US House 6,87206
+MI,house,MI-07,Michigan US House 7,87207
+MI,house,MI-08,Michigan US House 8,87208
+MI,house,MI-09,Michigan US House 9,87209
+MI,house,MI-10,Michigan US House 10,87210
+MI,house,MI-11,Michigan US House 11,87211
+MI,house,MI-12,Michigan US House 12,87212
+MI,house,MI-13,Michigan US House 13,87213
+MI,senate,,Michigan US Senate,87214
+MN,governor,,Minnesota Governor,87230
+MN,house,MN-01,Minnesota US House 1,87221
+MN,house,MN-02,Minnesota US House 2,87222
+MN,house,MN-03,Minnesota US House 3,87223
+MN,house,MN-04,Minnesota US House 4,87224
+MN,house,MN-05,Minnesota US House 5,87225
+MN,house,MN-06,Minnesota US House 6,87226
+MN,house,MN-07,Minnesota US House 7,87227
+MN,house,MN-08,Minnesota US House 8,87228
+MN,senate,,Minnesota US Senate,87229
+MO,house,MO-01,Missouri US House 1,87234
+MO,house,MO-02,Missouri US House 2,87235
+MO,house,MO-03,Missouri US House 3,87236
+MO,house,MO-04,Missouri US House 4,87237
+MO,house,MO-05,Missouri US House 5,87238
+MO,house,MO-06,Missouri US House 6,87239
+MO,house,MO-07,Missouri US House 7,87240
+MO,house,MO-08,Missouri US House 8,87241
+MS,house,MS-01,Mississippi US House 1,81000
+MS,house,MS-02,Mississippi US House 2,81001
+MS,house,MS-03,Mississippi US House 3,81002
+MS,house,MS-04,Mississippi US House 4,81003
+MS,senate,,Mississippi US Senate,81004
+MT,house,MT-01,Montana US House 1,87245
+MT,house,MT-02,Montana US House 2,87246
+MT,senate,,Montana US Senate,87247
+NC,house,NC-01,North Carolina US House 1,87332
+NC,house,NC-02,North Carolina US House 2,87333
+NC,house,NC-03,North Carolina US House 3,87334
+NC,house,NC-04,North Carolina US House 4,87335
+NC,house,NC-05,North Carolina US House 5,87336
+NC,house,NC-06,North Carolina US House 6,87337
+NC,house,NC-07,North Carolina US House 7,87338
+NC,house,NC-08,North Carolina US House 8,87339
+NC,house,NC-09,North Carolina US House 9,87340
+NC,house,NC-10,North Carolina US House 10,87341
+NC,house,NC-11,North Carolina US House 11,87342
+NC,house,NC-12,North Carolina US House 12,87343
+NC,house,NC-13,North Carolina US House 13,87344
+NC,house,NC-14,North Carolina US House 14,87345
+NC,senate,,North Carolina US Senate,87346
+ND,house,ND-AL,North Dakota US House At-Large,87347
+NE,governor,,Nebraska Governor,87255
+NE,house,NE-01,Nebraska US House 1,87251
+NE,house,NE-02,Nebraska US House 2,87252
+NE,house,NE-03,Nebraska US House 3,87253
+NE,senate,,Nebraska US Senate,87254
+NH,governor,,New Hampshire Governor,87284
+NH,house,NH-01,New Hampshire US House 1,87281
+NH,house,NH-02,New Hampshire US House 2,87282
+NH,senate,,New Hampshire US Senate,87283
+NJ,house,NJ-01,New Jersey US House 1,87290
+NJ,house,NJ-02,New Jersey US House 2,87291
+NJ,house,NJ-03,New Jersey US House 3,87292
+NJ,house,NJ-04,New Jersey US House 4,87293
+NJ,house,NJ-05,New Jersey US House 5,87294
+NJ,house,NJ-06,New Jersey US House 6,87295
+NJ,house,NJ-07,New Jersey US House 7,87296
+NJ,house,NJ-08,New Jersey US House 8,87297
+NJ,house,NJ-09,New Jersey US House 9,87298
+NJ,house,NJ-10,New Jersey US House 10,87299
+NJ,house,NJ-11,New Jersey US House 11,87300
+NJ,house,NJ-12,New Jersey US House 12,87301
+NJ,senate,,New Jersey US Senate,87302
+NM,governor,,New Mexico Governor,87289
+NM,house,NM-01,New Mexico US House 1,87285
+NM,house,NM-02,New Mexico US House 2,87286
+NM,house,NM-03,New Mexico US House 3,87287
+NM,senate,,New Mexico US Senate,87288
+NV,governor,,Nevada Governor,87260
+NV,house,NV-01,Nevada US House 1,87256
+NV,house,NV-02,Nevada US House 2,87257
+NV,house,NV-03,Nevada US House 3,87258
+NV,house,NV-04,Nevada US House 4,87259
+NY,governor,,New York Governor,87329
+NY,house,NY-01,New York US House 1,87303
+NY,house,NY-02,New York US House 2,87304
+NY,house,NY-03,New York US House 3,87305
+NY,house,NY-04,New York US House 4,87306
+NY,house,NY-05,New York US House 5,87307
+NY,house,NY-06,New York US House 6,87308
+NY,house,NY-07,New York US House 7,87309
+NY,house,NY-08,New York US House 8,87310
+NY,house,NY-09,New York US House 9,87311
+NY,house,NY-10,New York US House 10,87312
+NY,house,NY-11,New York US House 11,87313
+NY,house,NY-12,New York US House 12,87314
+NY,house,NY-13,New York US House 13,87315
+NY,house,NY-14,New York US House 14,87316
+NY,house,NY-15,New York US House 15,87317
+NY,house,NY-16,New York US House 16,87318
+NY,house,NY-17,New York US House 17,87319
+NY,house,NY-18,New York US House 18,87320
+NY,house,NY-19,New York US House 19,87321
+NY,house,NY-20,New York US House 20,87322
+NY,house,NY-21,New York US House 21,87323
+NY,house,NY-22,New York US House 22,87324
+NY,house,NY-23,New York US House 23,87325
+NY,house,NY-24,New York US House 24,87326
+NY,house,NY-25,New York US House 25,87327
+NY,house,NY-26,New York US House 26,87328
+OH,governor,,Ohio Governor,87365
+OH,house,OH-01,Ohio US House 1,87350
+OH,house,OH-02,Ohio US House 2,87351
+OH,house,OH-03,Ohio US House 3,87352
+OH,house,OH-04,Ohio US House 4,87353
+OH,house,OH-05,Ohio US House 5,87354
+OH,house,OH-06,Ohio US House 6,87355
+OH,house,OH-07,Ohio US House 7,87356
+OH,house,OH-08,Ohio US House 8,87357
+OH,house,OH-09,Ohio US House 9,87358
+OH,house,OH-10,Ohio US House 10,87359
+OH,house,OH-11,Ohio US House 11,87360
+OH,house,OH-12,Ohio US House 12,87361
+OH,house,OH-13,Ohio US House 13,87362
+OH,house,OH-14,Ohio US House 14,87363
+OH,house,OH-15,Ohio US House 15,87364
+OH,senate,,Ohio US Senate Special General,87527
+OK,governor,,Oklahoma Governor,87582
+OK,house,OK-01,Oklahoma US House 1,87509
+OK,house,OK-02,Oklahoma US House 2,87510
+OK,house,OK-03,Oklahoma US House 3,87511
+OK,house,OK-04,Oklahoma US House 4,87512
+OK,house,OK-05,Oklahoma US House 5,87513
+OK,senate,,Oklahoma US Senate,87526
+OR,governor,,Oregon Governor,87375
+OR,house,OR-01,Oregon US House 1,87368
+OR,house,OR-02,Oregon US House 2,87369
+OR,house,OR-03,Oregon US House 3,87370
+OR,house,OR-04,Oregon US House 4,87371
+OR,house,OR-05,Oregon US House 5,87372
+OR,house,OR-06,Oregon US House 6,87373
+OR,senate,,Oregon US Senate,87374
+PA,governor,,Pennsylvania Governor,87393
+PA,house,PA-01,Pennsylvania US House 1,87376
+PA,house,PA-02,Pennsylvania US House 2,87377
+PA,house,PA-03,Pennsylvania US House 3,87378
+PA,house,PA-04,Pennsylvania US House 4,87379
+PA,house,PA-05,Pennsylvania US House 5,87380
+PA,house,PA-06,Pennsylvania US House 6,87381
+PA,house,PA-07,Pennsylvania US House 7,87382
+PA,house,PA-08,Pennsylvania US House 8,87383
+PA,house,PA-09,Pennsylvania US House 9,87384
+PA,house,PA-10,Pennsylvania US House 10,87385
+PA,house,PA-11,Pennsylvania US House 11,87386
+PA,house,PA-12,Pennsylvania US House 12,87387
+PA,house,PA-13,Pennsylvania US House 13,87388
+PA,house,PA-14,Pennsylvania US House 14,87389
+PA,house,PA-15,Pennsylvania US House 15,87390
+PA,house,PA-16,Pennsylvania US House 16,87391
+PA,house,PA-17,Pennsylvania US House 17,87392
+RI,governor,,Rhode Island Governor,87397
+RI,house,RI-01,Rhode Island US House 1,87394
+RI,house,RI-02,Rhode Island US House 2,87395
+RI,senate,,Rhode Island US Senate,87396
+SC,governor,,South Carolina Governor,87410
+SC,house,SC-01,South Carolina US House 1,87402
+SC,house,SC-02,South Carolina US House 2,87403
+SC,house,SC-03,South Carolina US House 3,87404
+SC,house,SC-04,South Carolina US House 4,87405
+SC,house,SC-05,South Carolina US House 5,87406
+SC,house,SC-06,South Carolina US House 6,87407
+SC,house,SC-07,South Carolina US House 7,87408
+SC,senate,,South Carolina US Senate,87409
+SD,governor,,South Dakota Governor,87447
+SD,house,SD-AL,South Dakota US House At-Large,87445
+SD,senate,,South Dakota US Senate,87446
+TN,governor,,Tennessee Governor,87476
+TN,house,TN-01,Tennessee US House 1,87448
+TN,house,TN-02,Tennessee US House 2,87449
+TN,house,TN-03,Tennessee US House 3,87450
+TN,house,TN-04,Tennessee US House 4,87451
+TN,house,TN-05,Tennessee US House 5,87452
+TN,house,TN-06,Tennessee US House 6,87453
+TN,house,TN-07,Tennessee US House 7,87454
+TN,house,TN-08,Tennessee US House 8,87455
+TN,house,TN-09,Tennessee US House 9,87456
+TN,senate,,Tennessee US Senate,87475
+TX,governor,,Texas Governor,55857
+TX,house,TX-01,Texas US House 1,87411
+TX,house,TX-02,Texas US House 2,87412
+TX,house,TX-03,Texas US House 3,87413
+TX,house,TX-04,Texas US House 4,56004
+TX,house,TX-05,Texas US House 5,87414
+TX,house,TX-06,Texas US House 6,87415
+TX,house,TX-07,Texas US House 7,87416
+TX,house,TX-08,Texas US House 8,56005
+TX,house,TX-09,Texas US House 9,87417
+TX,house,TX-10,Texas US House 10,56006
+TX,house,TX-11,Texas US House 11,87418
+TX,house,TX-12,Texas US House 12,87419
+TX,house,TX-13,Texas US House 13,87420
+TX,house,TX-14,Texas US House 14,87421
+TX,house,TX-15,Texas US House 15,87422
+TX,house,TX-16,Texas US House 16,87423
+TX,house,TX-17,Texas US House 17,87424
+TX,house,TX-18,Texas US House 18,87425
+TX,house,TX-19,Texas US House 19,87426
+TX,house,TX-20,Texas US House 20,87427
+TX,house,TX-21,Texas US House 21,56007
+TX,house,TX-22,Texas US House 22,56008
+TX,house,TX-23,Texas US House 23,87428
+TX,house,TX-24,Texas US House 24,87429
+TX,house,TX-25,Texas US House 25,87430
+TX,house,TX-26,Texas US House 26,56009
+TX,house,TX-27,Texas US House 27,56010
+TX,house,TX-28,Texas US House 28,56011
+TX,house,TX-29,Texas US House 29,87431
+TX,house,TX-30,Texas US House 30,87432
+TX,house,TX-31,Texas US House 31,56012
+TX,house,TX-32,Texas US House 32,87433
+TX,house,TX-33,Texas US House 33,87434
+TX,house,TX-34,Texas US House 34,56013
+TX,house,TX-35,Texas US House 35,87435
+TX,house,TX-36,Texas US House 36,56014
+TX,house,TX-37,Texas US House 37,87436
+TX,house,TX-38,Texas US House 38,87437
+TX,senate,,Texas US Senate,87438
+UT,house,UT-01,Utah US House 1,87457
+UT,house,UT-02,Utah US House 2,87458
+UT,house,UT-03,Utah US House 3,87459
+UT,house,UT-04,Utah US House 4,87460
+VA,house,VA-01,Virginia US House 1,87461
+VA,house,VA-02,Virginia US House 2,87462
+VA,house,VA-03,Virginia US House 3,87463
+VA,house,VA-04,Virginia US House 4,87464
+VA,house,VA-05,Virginia US House 5,87465
+VA,house,VA-06,Virginia US House 6,87466
+VA,house,VA-07,Virginia US House 7,87467
+VA,house,VA-08,Virginia US House 8,87468
+VA,house,VA-09,Virginia US House 9,87469
+VA,house,VA-10,Virginia US House 10,87470
+VA,house,VA-11,Virginia US House 11,87471
+VA,senate,,Virginia US Senate,87472
+VT,governor,,Vermont Governor,87503
+VT,house,VT-AL,Vermont US House At-Large,87502
+WA,house,WA-01,Washington US House 1,87514
+WA,house,WA-02,Washington US House 2,87515
+WA,house,WA-03,Washington US House 3,87516
+WA,house,WA-04,Washington US House 4,87517
+WA,house,WA-05,Washington US House 5,87518
+WA,house,WA-06,Washington US House 6,87519
+WA,house,WA-07,Washington US House 7,87520
+WA,house,WA-08,Washington US House 8,87521
+WA,house,WA-09,Washington US House 9,87522
+WA,house,WA-10,Washington US House 10,87523
+WI,governor,,Wisconsin Governor,87491
+WI,house,WI-01,Wisconsin US House 1,87483
+WI,house,WI-02,Wisconsin US House 2,87484
+WI,house,WI-03,Wisconsin US House 3,87485
+WI,house,WI-04,Wisconsin US House 4,87486
+WI,house,WI-05,Wisconsin US House 5,87487
+WI,house,WI-06,Wisconsin US House 6,87488
+WI,house,WI-07,Wisconsin US House 7,87489
+WI,house,WI-08,Wisconsin US House 8,87490
+WV,house,WV-01,West Virginia US House 1,87473
+WV,house,WV-02,West Virginia US House 2,87474
+WV,senate,,West Virginia US Senate,87477
+WY,governor,,Wyoming Governor,87497
+WY,house,WY-AL,Wyoming US House At-Large,87495
+WY,senate,,Wyoming US Senate,87496
